@@ -42,9 +42,7 @@
 
 ---
 
-# Creating README.md file with the provided content
 
-readme_content = """
 # راهنمای مرحله‌به‌مرحله برای ارسال تکالیف از طریق GitHub Classroom
 
 دانشجویان عزیز، لطفاً برای ارسال تکالیف خود از طریق GitHub Classroom طبق مراحل زیر عمل کنید:
